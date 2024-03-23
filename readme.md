@@ -65,7 +65,7 @@
   - [グラフィックボード性能比較　2024/3/7更新【ドスパラ】 ｜ドスパラ公式通販サイト](https://www.dospara.co.jp/5shopping/shp_vga_def_parts.html)
 
 - Motherboard:
-  ー[マザーボード｜パソコン通販のドスパラ【公式】](https://www.dospara.co.jp/BR21)
+  - [マザーボード｜パソコン通販のドスパラ【公式】](https://www.dospara.co.jp/BR21)
 
 - Memory:
   - 16GB x 2
