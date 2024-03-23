@@ -47,19 +47,29 @@
 ## 1.2 Terminology
 
 - DDR
+  - [RAMの世代：DDR2、DDR3、DDR4、DDR5 | Crucial JP](https://www.crucial.jp/articles/about-memory/difference-among-ddr2-ddr3-ddr4-and-ddr5-memory)
 - PCle
+  - [PCI-Express（PCIe）とは｜ドスパラ通販【公式】](https://www.dospara.co.jp/5info/cts_str_parts_pci-express.html)
 
 ## 1.3 What I should buy
 
-- CPU:
+- CPU: 50,000 yen
+  - Do I need CPU with internal graphic board?
   - at least 2 core
+  - [Intel Core i5 14600K BOX ｜ パソコン通販のドスパラ【公式】](https://www.dospara.co.jp/SBR1481/IC494975.html)
+  - [IntelのCPUのK・F・KF・KSって何が違うの？選び方も解説 - がじぇけん](https://kindai-gadget.com/intel-cpu-model/)
+  - [パソコンのCPU（プロセッサー）の世代確認方法 | アイ・オー・データ機器 I-O DATA](https://www.iodata.jp/support/qanda/answer/s18606.htm)
   - [Intel（インテル）CPU性能比較表【2023/12/26更新】｜ドスパラ【公式】](https://www.dospara.co.jp/5info/cts_lp_intel_cpu.html)
   - [AMD CPU（APU）性能比較表【2024/3/4更新】｜ドスパラ【公式】](https://www.dospara.co.jp/5info/cts_lp_amd_cpu.html)
 
-- CPU Cooler
+- CPU Cooler: 15,000 yen - 2,000 yen
+  - [CPUクーラー｜パソコン通販のドスパラ【公式】](https://www.dospara.co.jp/SBR282)
   - [CPUクーラーの種類、選び方やチェックしておくべきポイントについてご紹介｜ドスパラ通販【公式】](https://www.dospara.co.jp/5info/cts_str_parts_cpu-cooler.html)
 
-- GPU:
+- GPU: 43,000
+  - [【生成AI】AI学習に使える！ディープラーニングにオススメのGPU 10選 | AIエンジニアになるには](https://beginner-ai.com/gpu-recommend/#toc11)
+  - 3000(43,000yen): [玄人志向 GG-RTX3060-E12GB/OC/DF (GeForce RTX 3060 12GB) LHR対応版 ｜ パソコン通販のドスパラ【公式】](https://www.dospara.co.jp/SBR1487/IC471630.html)
+  - [GeForce GPUの特徴とスペックの見方 - PCpedia](https://pcpedia.biz/gpu/geforce.html)
   - [【2022】ディープラーニングで「2枚挿し」は有効？GPU運用のポイントとは | M:CPP](https://jp.morgenrot.cloud/blog/2-gpu-for-deep-learning/)
   - [グラフィックボード｜パソコン通販のドスパラ【公式】](https://www.dospara.co.jp/BR31)
   - [グラフィックボード性能比較　2024/3/7更新【ドスパラ】 ｜ドスパラ公式通販サイト](https://www.dospara.co.jp/5shopping/shp_vga_def_parts.html)
